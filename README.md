@@ -1,5 +1,6 @@
 # Blinkit-Analytics-Dashboard
 Tools:- MS Excel &amp; Power BI
+
 Built an interactive Power BI dashboard to analyze Blinkit’s sales performance, customer preferences, and outlet insights. The project focuses on key KPIs such as total sales ($1.2M), average sales, item count, and customer ratings.
 
 The dashboard provides deep insights into:
